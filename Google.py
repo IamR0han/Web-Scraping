@@ -170,7 +170,7 @@ if __name__ == "__main__":
     else:
         # in case no arguments passed
         # the scraper will search by defaukt for:
-        search_for = "dentist new york"
+        search_for = "restaraunts Bhubaneshwar"
 
     # total number of products to scrape. Default is 10
     if args.total:
